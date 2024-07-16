@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cocktail recipes
+title: cocktails
 permalink: /cocktail-recipes/
 nav: true
 nav_order: 2

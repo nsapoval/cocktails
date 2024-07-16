@@ -4,6 +4,7 @@ title: Bourbon Peach Basil Ice Pick
 date: 2024-06-29 
 inline: false
 related_posts: false
+tags: sour bourbon fruity
 ---
 
 The original recipe is by McKenzie Nelson from <a href="https://www.rangerstationatl.com/">Ranger Station, Atlanta, GA</a> <a href="https://www.instagram.com/rangerstationatl/?hl=en"><i class="fa-brands fa-instagram"></i></a> via <a href="https://imbibemagazine.com/">Imbibe Magazine</a>.
