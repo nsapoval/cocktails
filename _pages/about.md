@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cocktails, infusions, liqueurs, and banter
+subtitle: <i>Cocktails, infusions, liqueurs, and banter</i>
 
 profile:
   align: right
