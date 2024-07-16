@@ -188,7 +188,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  cocktail-recipes:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
+  other-recipes:
     defaults:
       layout: post
     output: true
