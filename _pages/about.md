@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Cocktails, infusions, liqueurs, and banter
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Houston, Texas, USA</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Nick and I have been passionate about cocktails since my junior year of college. I have never worked in a real bar, but I enjoy making drinks at home and helping with drink programs at friends's parties and events. Over the several years of making cocktails I have experimented with different recipes and techniques, as well as developed a few personal recipes. This website is the organized collection of some of my knowledge on the topic of cocktails.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Some blogs I enjoy:
+<ul>
+  <li><a href="https://jeffreymorgenthaler.com/">Jeffrey Morgenthaler's blog</a></li>
+</ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Some YouTube channels I like:
+
+<i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/c/TrufflesOnTheRocks">Truffles on the Rocks</a>
+
+<i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@KevinKos">Cocktail Time</a>
+
+<i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@howtodrink">How To Drink</a>
+
+<i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@CocktailChemistry">Cocktail Chemistry</a>
+
+<i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@TheEducatedBarfly">The Educated Barfly</a>
