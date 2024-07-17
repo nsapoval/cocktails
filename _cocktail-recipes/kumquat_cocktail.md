@@ -18,7 +18,7 @@ A refreshing sour that uses <a href="https://www.kevinkos.com/post/kumquat-super
     <li> 1.5 oz sparkling wine</li>
 </ul>
 
-Shake all ingredients except the sparkling wine with ice and pour into a coupe glass. Top off with sparkling wine and optionally garnish with a very thin kumquat slice.
+Shake all ingredients except the sparkling wine with ice and strain into a coupe glass. Top off with sparkling wine and optionally garnish with a very thin kumquat slice.
 
 ---
 
