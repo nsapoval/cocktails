@@ -18,7 +18,7 @@ An original recipe that scales down the volume of a typical sour for an unusual 
     <li> 0.5 oz lime juice</li>
 </ul>
 
-Shake all ingredients with ice and strain into small coupe glass.
+Shake all ingredients with ice and strain into a small coupe glass.
 
 ---
 
