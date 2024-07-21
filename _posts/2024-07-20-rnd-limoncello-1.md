@@ -75,8 +75,6 @@ The drink turns a nice shade of purple red, but it doesn't taste good. Several t
 
 This version tastes more balanced and closer to a typical sour. It has nice hibiscus front and long lemon finish thanks to the limoncello. I am not fully satisfied with this drink even though it is definitely a solid attempt at a summery limoncello cocktail. I believe that a way to make this both more balanced and more exciting would require making a non-sweetened Sorel and using it in place of hibiscus tea. I might try this idea later in the future.
 
-<!-- *Hibiscus Lemonade v1 in a coupe glass.*
-
 However, similarly to what I've mentioned for the strawberry version I believe that this can be made into an even more summery highball by adding soda water. Unlike  the strawberries, the hibiscus doesn't seem to pair with mint that well in my perception, so we will skip that component. Furthermore, instead of adding soda water to our cocktail, we will make a more diluted version of the cocktail and then carbonate the whole thing in an iSi whipper with some CO2 cartridges. At some point in the future I probably will write a more detailed post about carbonation, but for now we will follow a simple guide:
 
 1. Cocktail in the iSi whipper goes into fridge for at least 30 minutes
@@ -92,9 +90,12 @@ The adjusted recipe scaled to yield roughly 600 ml of the total carbonated cockt
 * 4 oz limoncello
 * 1 oz lemon juice
 * 6 oz hibiscus tea
-* 6 oz water -->
+* 6 oz water 
 
-<!-- The end result is... -->
+The end result is a lot better than the previous two versions. The two CO2 charges make the drink quite fizzy. Lemon leads the flavor profile, but the hibiscus is noticeable. As with all the other cocktails in this post the aftertaste is mostly lemon oils. Overall this is a pleasant summer cocktail that can be pre-batched for a party. It has nice complexity and very appealing color, and carbonation adds a bit of extra fun for the presentation. 
+
+{% include figure.liquid loading="eager" path="assets/img/carbonated-hibiscus-lemonade-1.jpg" class="img-fluid rounded z-depth-1" %}
+*Carbonated hibiscus lemonade.*
 
 ---
 
