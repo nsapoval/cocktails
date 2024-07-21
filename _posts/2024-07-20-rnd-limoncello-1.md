@@ -38,7 +38,9 @@ The fresh peel limoncello is bright not only in its color but in the aroma and f
 
 ## Cocktails
 
-The first challenge I wanted to solve in making a cocktail featuring limoncello was addressing the acidic component of the drink. Conceptually there are a few ways this can be solved: (1) double down on the lemon and use juice, (2) become ~~Sprite~~ "lemon-lime soda" and use a different citrus juice, or (3) use a non-citrus source of acidity. All of these solutions have their time and place, but I didn't want to do either (1) or (2). The lemons on lemons just doesn't sound too appealing at the moment, and the lemon-lime combination usually feels like a generic citrus flavor in so far as it muddies the nuance of the individual citrus used. 
+A super simple sipper we can make with limoncello is simply combining 2 ounces of limoncello with about 6 oz of tonic water in a Collins glass with a bunch of ice. The drink is refreshing, but quite complex thanks to the bitterness of the tonic and lemon essential oils in the limoncello. This is a great long drink for a hot summer and it could pair well with light vegetable appetizers or a nice cheese plate. 
+
+Now, that we have a simple summer drink down let's explore the possibilities offered by limoncello. The first challenge I wanted to solve in making a more complex cocktail featuring limoncello was addressing the acidic component of the drink. Conceptually there are a few ways this can be solved: (1) double down on the lemon and use juice, (2) become ~~Sprite~~ "lemon-lime soda" and use a different citrus juice, or (3) use a non-citrus source of acidity. All of these solutions have their time and place, but I didn't want to do either (1) or (2). The lemons on lemons just doesn't sound too appealing at the moment, and the lemon-lime combination usually feels like a generic citrus flavor in so far as it muddies the nuance of the individual citrus used. 
 
 With all this being said, this section is largely experimental, and hence results may vary. If you are looking for a less creative, but more stable cocktail [jump here](#double-lemon-whiskey-sour).
 
@@ -111,3 +113,4 @@ Finally, we will wrap with a modified whiskey sour by doubling down on lemon fla
 If using egg white dry shake first, then shake all ingredients with ice and strain into a Nick and Nora glass.
 
 I am currently trying the version without egg white and it has a nice bright acidic bite to it. The whiskeys interplay well with the ingredients with the light spice of rye aligning with amaro and bitters. The lemon flavor is bright in the beginning and transforms into a nice lemon oil aftertaste. Depending on personal preferences a barspoon or two of 2:1 syrup can make this cocktail a bit more balanced for some people.
+
