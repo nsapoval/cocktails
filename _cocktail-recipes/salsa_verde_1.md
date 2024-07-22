@@ -7,14 +7,14 @@ related_posts: false
 tags: vegetal herbal mezcal sotol
 ---
 
-An original recipe featuring <a href="/cocktails/other-recipes/verdita">verdita</a> in an herbal earthy cocktail.
+An original recipe featuring <a href="/cocktails/syrups-recipes/verdita">verdita</a> in an herbal earthy cocktail.
 
 ---
 
 <ul>
     <li> 1 oz sotol</li>
     <li> 1 oz mezcal</li>
-    <li> 3 oz <a href="/cocktails/other-recipes/verdita">verdita</a></li>
+    <li> 3 oz <a href="/cocktails/syrups-recipes/verdita">verdita</a></li>
     <li> 0.5 oz lime juice</li>
     <li> 0.5 oz 2:1 syrup</li>
     <li> 2-3 oz tonic water (optional)</li>

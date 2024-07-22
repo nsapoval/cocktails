@@ -44,7 +44,7 @@ Now, that we have a simple summer drink down let's explore the possibilities off
 
 With all this being said, this section is largely experimental, and hence results may vary. If you are looking for a less creative, but more stable cocktail [jump here](#double-lemon-whiskey-sour).
 
-Now, what are some alternative souring agents we could use? I made a <a href="/cocktails/other-recipes/strawberry-superjuice/">strawberry superjuice</a> before, and it'll likely work well with limoncello for a pink lemonade inspired cocktail. Given that limoncello is sweet, but still far from a syrup, I suspect that the following cocktail could work:
+Now, what are some alternative souring agents we could use? I made a <a href="/cocktails/syrups-recipes/strawberry-superjuice/">strawberry superjuice</a> before, and it'll likely work well with limoncello for a pink lemonade inspired cocktail. Given that limoncello is sweet, but still far from a syrup, I suspect that the following cocktail could work:
 
 ### Pretty Pink Palette
 

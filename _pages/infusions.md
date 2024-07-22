@@ -1,9 +1,9 @@
 ---
 layout: page
-title: other recipes
+title: infusions + liqueurs
 permalink: /other-recipes/
 nav: true
 nav_order: 3
 ---
 
-{% include other_recipes.liquid %}
+{% include infusions_recipes.liquid %}

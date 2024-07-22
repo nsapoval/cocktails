@@ -12,9 +12,9 @@ The original recipe is by McKenzie Nelson from <a href="https://www.rangerstatio
 ---
 
 <ul>
-    <li> 2 oz <a href="/cocktails/other-recipes/peach_bourbon">peach-infused bourbon</a></li>
+    <li> 2 oz <a href="/cocktails/infusions-recipes/peach_bourbon">peach-infused bourbon</a></li>
     <li> 1.5 oz brewed black tea</li>
-    <li> 0.75 oz <a href="/cocktails/other-recipes/peach_syrup">peach syrup</a></li>
+    <li> 0.75 oz <a href="/cocktails/syrups-recipes/peach_syrup">peach syrup</a></li>
     <li> 0.75 oz lemon juice</li>
     <li> 0.25 oz Amaro Montenegro</li>
     <li> 5 fresh basil leaves</li>

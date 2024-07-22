@@ -12,7 +12,7 @@ The original recipe is from <a href="https://www.justinenola.com/">Justine, New 
 ---
 
 <ul>
-    <li> 1.5 oz <a href="/cocktails/other-recipes/verdita">verdita</a></li>
+    <li> 1.5 oz <a href="/cocktails/syrups-recipes/verdita">verdita</a></li>
     <li> 0.5 oz lime juice</li>
     <li> 0.5 oz 2:1 syrup</li>
     <li> 4 oz tonic water</li>

@@ -12,7 +12,7 @@ An original recipe using matcha and infused vodka for a complex summery sour.
 ---
 
 <ul>
-    <li> 2 oz <a href="/cocktails/other-recipes/strawberry_apple_vodka">strawberry and apple vodka</a></li>
+    <li> 2 oz <a href="/cocktails/infusions-recipes/strawberry_apple_vodka">strawberry and apple vodka</a></li>
     <li> 0.5 tsp matcha powder</li>
     <li> 0.75 oz 2:1 syrup</li>
     <li> 0.75 oz lemon juice</li>
