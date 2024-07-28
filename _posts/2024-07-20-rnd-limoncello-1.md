@@ -12,7 +12,7 @@ We will be using <a href="https://www.kevinkos.com/post/lemoncello-easier-n-chea
 ## Main recipe
 
 * 35 g lemon peels
-* 210 ml neutral gran spirit (75.5% ABV)
+* 210 ml neutral grain spirit (75.5% ABV)
 * 315 ml water
 * 105 g sugar
 

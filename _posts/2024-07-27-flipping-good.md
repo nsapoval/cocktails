@@ -16,7 +16,7 @@ In this post we will explore some classic flips, personalized variations on thos
 
 ### Rum Flip
 
-https://www.liquor.com/rum-flip-cocktail-recipe-5213043 
+This is an old time classic flip that can accommodate a variety of rums. I prefer to use dark Jamaican rum here for a more bold and complex profile.
 
 * 1.5 oz dark rum
 * 0.5 oz heavy cream
