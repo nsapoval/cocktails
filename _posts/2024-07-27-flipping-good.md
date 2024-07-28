@@ -27,6 +27,8 @@ Combine all ingredients in a shaker and shake without ice. Add ice and shake aga
 
 I swapped 0.5 oz of the dark rum for blackstrap rum for a more molasses forward drink. The result is pleasant with coffee and chocolate notes from the dark rums and nice silky texture from the egg.
 
+{% include figure.liquid loading="eager" path="assets/img/rum-flip-1.jpg" class="img-fluid rounded z-depth-1" %}
+
 ---
 
 ### [Rum Flip v2](/cocktails/cocktail-recipes/rum-flip-v2)
