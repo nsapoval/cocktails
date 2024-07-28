@@ -14,7 +14,7 @@ In this post we will explore some classic flips, personalized variations on thos
 
 ## Cocktails
 
-### Rum Flip
+### [Rum Flip](/cocktails/cocktail-recipes/rum-flip)
 
 This is an old time classic flip that can accommodate a variety of rums. I prefer to use dark Jamaican rum here for a more bold and complex profile.
 
