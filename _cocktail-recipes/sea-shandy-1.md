@@ -23,5 +23,3 @@ Shake all ingredients except the beer with ice and pour into a Collins glass fil
 ---
 
 The drink is nice and fresh with notes of passion fruit and other tropical fruit aromas. The blend of rums provides a robust backbone without overpowering the beer, and the touch of sweetness and tartness round out the drink. Overall this is a great summer sipper.
-
-{% include figure.liquid loading="eager" path="assets/img/passionfruit-guava-punch-1.jpg" class="img-fluid rounded z-depth-1" %}
