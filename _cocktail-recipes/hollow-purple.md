@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Retired Pornstar
-date: 2025-07-02 
+date: 2025-08-23 
 inline: false
 related_posts: false
-tags: sour rum passionfruit
+tags: highball color-change tequila
 ---
 
-An original recipe inspired by the <a href="https://www.amazon.com/Surasang-Passion-Fruit-Honey-Puree/dp/B0DG61VL1W?th=1">honey passionfruit puree</a> I picked up at H-mart, and my lack of desire to spend a lot of time prepping ingredients for a passionfruit cocktail.
+This recipe is a slight modification of the Lance Wong's (<a href="https://www.instagram.com/moresavorygoods/"><i class="fa-brands fa-instagram"></i></a>, recipe: <a href="https://www.instagram.com/moresavorygoods/reel/C5qqQVXLY18/"><i class="fa-brands fa-instagram"></i></a>) Hollow Purple -- a color changing tequila highball themed around Jujutsu Kaisen.
 
 ---
 
 <ul>
-    <li> 1 oz dark Bermuda rum (Goslings)</li>
-    <li> 1.5 oz light rum (Flor de Cana)</li>
+    <li> 1.5 oz [butterfly pea infused tequila]()(/cocktails/infusions-recipes/butterfly-pea-tequila/)</li>
+    <li> 0.75 oz [grapefruit cordial](/cocktails/syrups-recipes/grapefruit-cordial/)</li>
     <li> 0.5 oz lemon juice</li>
     <li> 0.25 oz lime juice</li>
     <li> 2 tbsp honey passionfruit puree</li>

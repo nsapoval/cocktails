@@ -7,7 +7,7 @@ related_posts: false
 tags: grapefruit cordial
 ---
 
-Essentially mixing and matching the ideas from <a hred="https://jeffreymorgenthaler.com/lime-cordial/">Jeffrey Morgenthaler's lime cordial</a> and <a href="https://www.kevinkos.com/post/grapefruit-super-juice">Kevin Kos's Grapefruit Superjuice</a> recipes.
+Essentially mixing and matching the ideas from <a href="https://jeffreymorgenthaler.com/lime-cordial/">Jeffrey Morgenthaler's lime cordial</a> and <a href="https://www.kevinkos.com/post/grapefruit-super-juice">Kevin Kos's Grapefruit Superjuice</a> recipes.
 
 ---
 
