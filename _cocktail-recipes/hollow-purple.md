@@ -12,8 +12,8 @@ This recipe is a slight modification of the Lance Wong's (<a href="https://www.i
 ---
 
 <ul>
-    <li> 1.5 oz [butterfly pea infused tequila]()(/cocktails/infusions-recipes/butterfly-pea-tequila/)</li>
-    <li> 0.75 oz [grapefruit cordial](/cocktails/syrups-recipes/grapefruit-cordial/)</li>
+    <li> 1.5 oz <a href="https://nsapoval.github.io/cocktails/infusions-recipes/butterfly-pea-tequila/">butterfly pea infused tequila</a></li>
+    <li> 0.75 oz <a href="https://nsapoval.github.io/cocktails/syrups-recipes/grapefruit-cordial/">grapefruit cordial</a></li>
     <li> 0.25 oz Campari</li>
     <li> 3 dashes grapefruit bitters</li>
     <li> soda water to top off</li>
