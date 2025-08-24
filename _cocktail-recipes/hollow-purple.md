@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retired Pornstar
+title: Hollow Purple
 date: 2025-08-23 
 inline: false
 related_posts: false
@@ -14,16 +14,15 @@ This recipe is a slight modification of the Lance Wong's (<a href="https://www.i
 <ul>
     <li> 1.5 oz [butterfly pea infused tequila]()(/cocktails/infusions-recipes/butterfly-pea-tequila/)</li>
     <li> 0.75 oz [grapefruit cordial](/cocktails/syrups-recipes/grapefruit-cordial/)</li>
-    <li> 0.5 oz lemon juice</li>
-    <li> 0.25 oz lime juice</li>
-    <li> 2 tbsp honey passionfruit puree</li>
-    <li> 1.5 oz dry sparkling wine (optional)</li>
+    <li> 0.25 oz Campari</li>
+    <li> 3 dashes grapefruit bitters</li>
+    <li> soda water to top off</li>
 </ul>
 
-Shake all ingredients except the bubbles with ice and strain into a coupe glass. Top off with sparkling wine.
+Combine tequila and some soda water in a highball glass with ice. In a separate shot glass combine the cordial, Campari and grapefruit bitters. Dramatically add the contents of the shot glass to high ball, stir and top off with more soda.
 
 ---
 
-Overall a solid sour with nice passionfruit flavor and aroma. Works without sparkling wine top off, but you'll need to tune down puree to 1-1.5 tablespoons in that case. Using just lime juice might end up tasting a tad too harsh, but might be warranted with a bolder choice of rums. 
+Very pleasant flavor with a hint of bitterness from Campari and a candy-like grapefruit flavor from the cordial. The final color ends up closer to a shade of pink rather than purple, but the flavor is great.
 
-{% include figure.liquid loading="eager" path="assets/img/retired-pornstar-1.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/hollow-purple.jpg" class="img-fluid rounded z-depth-1" %}
