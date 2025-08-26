@@ -7,7 +7,7 @@ related_posts: false
 tags: grapefruit coffee zero-proof
 ---
 
-Grapefruit cordial works great in a gimlet. I made the original one in the photo with a butterfly pea infused tequila, but a butterfly pea infused gin would work really well here too.
+Adding grapefruit cordial into espresso tonic for an extra citrus twist on a summer coffee drink.
 
 ---
 
