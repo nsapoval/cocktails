@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Verdita
+title: La Verdita (0 ABV)
 date: 2024-06-20 
 inline: false
 related_posts: false
