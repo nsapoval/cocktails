@@ -13,7 +13,7 @@ I was skeptical about use of coconut water in cocktails until I tried this recip
 
 <ul>
     <li> 1.5 oz light rum (Flor de Cana 4 Extra Seco)</li>
-    <li> 0.5 oz dark Demerara rum (Diamond Reserve)
+    <li> 0.5 oz dark Demerara rum (Diamond Reserve)</li>
     <li> 0.25 oz lime juice</li>
     <li> 0.25 oz Demerara syrup</li>
     <li> 4 oz coconut water</li>
