@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Commando Grog
+title: Pineapple Paralysis
 date: 2025-09-27
 inline: false
 related_posts: false
-tags: rum grog minimalist-tiki
+tags: bourbon minimalist-tiki
 ---
 
 Another recipe from the <a href="https://www.wonkpress.com/products/minimalist-tiki">Minimalist Tiki</a> book. This one features bourbon in a Tiki cocktail for a good balance and twist.
