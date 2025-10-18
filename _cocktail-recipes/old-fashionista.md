@@ -7,7 +7,7 @@ related_posts: false
 tags: bourbon 
 ---
 
-I am not the biggest fan of the Old Fashioned cocktail. However, recently I've been thinking about ways to reimagine Old Fashioned in a way that would encourage someone to start building up their bar. Making syrups == a hassle, fresh fruit and handling peels == a hassle, and so Old Fashionista was created.
+I am not the biggest fan of the Old Fashioned cocktail. However, recently I've been thinking about ways to reimagine Old Fashioned in a way that would encourage someone to start building up their bar. Making syrups -> a hassle, fresh fruit and handling peels -> a hassle, and so Old Fashionista was created.
 
 ---
 

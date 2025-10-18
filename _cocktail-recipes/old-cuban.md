@@ -22,6 +22,6 @@ Muddle leaves with sugar in the shaker, then add remaining ingredients except th
 
 ---
 
-The cocktail is very well balanced and refreshing thanks to the mint. The aged rum adds complexity and ANgostura bitters add a note of spices to the mix.
+The cocktail is very well balanced and refreshing thanks to the mint. The aged rum adds complexity and Angostura bitters add a note of spices to the mix.
 
 {% include figure.liquid loading="eager" path="assets/img/old-cuban-1.jpg" class="img-fluid rounded z-depth-1" %}
